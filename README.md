@@ -11,7 +11,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior"/>
 
-<p align="left">_____________________________________________________________________________________________________<p/>
+<p align="left">_________________________________________________________________________________________________________________<p/>
 
 <p float:"left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
