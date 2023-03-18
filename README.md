@@ -9,11 +9,10 @@
 
 - 🗣️ Please, feel free to talk to me in 🇺🇸 
 
-<p float:"left">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior"/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior"/>
-</p>
-<p align="center">______________________________________________________________________________________________________________<p/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior"/>
+
+<p align="center">______________________________________________________<p/>
 
 <p float:"left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
