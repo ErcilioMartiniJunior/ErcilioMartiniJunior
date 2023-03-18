@@ -5,17 +5,16 @@
 <h3>Full-Stack Developer from Brazil 🇧🇷</h3>
 
 - 🌱 I’m currently learning **Python** <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-- 📫 How to reach me **erciliomartinijunior@gmail.com**
+- 📬 How to reach me **erciliomartinijunior@gmail.com**
 
 - 🗣️ Please, feel free to talk to me in 🇺🇸 
 
+<p float:"left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior"/>
+</p>
+<p align="center">______________________________________________________________________________________________________________<p/>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior" /></p>
-
-<h2>🚀 💻 Tecnologies & Tools</h2>
 <p float:"left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
