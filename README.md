@@ -5,7 +5,6 @@
 <h3>Full-Stack Developer from Brazil 🇧🇷</h3>
 
 - 🌱 I’m currently learning **Python** <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-- 📬 How to reach me **erciliomartinijunior@gmail.com**
 
 - 🗣️ Please, feel free to talk to me in 🇺🇸 
 
