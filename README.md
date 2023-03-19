@@ -4,16 +4,12 @@
 
 <h3>Front-end Developer from Brazil 🇧🇷</h3>
 
-- 🌱 I’m currently learning **JavaScript** <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+- 🌱 I’m currently learning **Python** <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
 
 - 🗣️ Please, feel free to talk to me in 🇺🇸 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en" alt="erciliomartinijunior"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erciliomartinijunior&" alt="erciliomartinijunior"/>
-
-<p align="center">_________________________________________________________________________________________________________________<p/>
-
-<p align="center" float:"left">
+<h2> 🚀 💻 Tecnologies & Tools </h2>
+<p align="left" float:"left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
