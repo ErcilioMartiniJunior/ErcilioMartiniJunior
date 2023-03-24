@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
 
-- 🗣️ Please, feel free to talk to me in 🇺🇸 
+- 🗣️ Feel free to talk to me in 🇺🇸 
 
 <h2> 🚀 💻 Tecnologies & Tools </h2>
 <p align="left" float:"left">
