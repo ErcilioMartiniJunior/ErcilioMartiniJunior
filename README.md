@@ -2,7 +2,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="erciliomartinijunior" /></p>
 
-<h3>Front-end Developer from Brazil 🇧🇷</h3>
+<h3>Front-end Developer from Brazil</h3>
 
 - 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
 
