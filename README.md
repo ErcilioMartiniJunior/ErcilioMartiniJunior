@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
 
 - 🗣️ Feel free to talk to me in 🇺🇸 
-- 🚀 Working to be a full stack developer.
+- 🚀 Studying to be a Fullstack developer.
 
 <h2> 💻 🛠️ Tecnologies & Tools </h2>
 <p align="left" float:"left">
