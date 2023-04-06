@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/>
 
-- 🗣️ Feel free to talk to me in 🇺🇸 
 - 🚀 Studying to be a Fullstack developer.
 
 <h2> 💻 🛠️ Tecnologies & Tools </h2>
