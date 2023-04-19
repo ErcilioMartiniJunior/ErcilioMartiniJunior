@@ -1,10 +1,8 @@
 <h1>Hi 👋, I'm Junior</h1>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=erciliomartinijunior&show_icons=true&bg_color=ffffff&locale=en&layout=compact" alt="erciliomartinijunior" /></p>
-
 <h3>Front-end Developer from Brazil</h3>
 
-- 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
+- 🌱 I’m currently learning <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
 
 - 🚀 Studying to be a Fullstack developer at <img align="center" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v1507162903/qkpagi7sv8temclfcfjp.png" alt="Kenzie Academy" width="30" height="30"/>
 
